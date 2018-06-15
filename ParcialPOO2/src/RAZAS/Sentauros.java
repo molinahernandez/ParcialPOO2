@@ -9,6 +9,22 @@ package RAZAS;
  *
  * @author Cristian Hernandez
  */
-public class Sentauros {
+public class Sentauros extends Razas_Bu{
+
+    @Override
+    public void nombre() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void listaedificaciones() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void listatropas() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+    
     
 }

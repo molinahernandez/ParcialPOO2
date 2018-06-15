@@ -9,7 +9,14 @@ package RAZAS;
  *
  * @author Cristian Hernandez
  */
-public interface AbstractRaza {
-    
+public class Razas_ {
+
+    public Razas_() {
+    }
+    public void Razas_(Razas_Bu build){
+        build.nombre();
+        build.listatropas();
+        build.listaedificaciones();
+    }
     
 }
