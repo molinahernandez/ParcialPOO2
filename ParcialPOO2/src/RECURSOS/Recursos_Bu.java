@@ -15,8 +15,11 @@ public abstract class Recursos_Bu {
     public Recursos getRecurso() {
         return recurso;
     }
-  
+    public void CrearRecurso(){
+        recurso = new Recursos();
+    }
+    
     public abstract void nombre();
     public abstract void cant();
-    public abstract void descripcion();  
+    public abstract void descripcion();
 }
