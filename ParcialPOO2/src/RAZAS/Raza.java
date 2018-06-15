@@ -11,8 +11,8 @@ package RAZAS;
  */
 public class Raza {
     private String nombre;
-    private ListaTropas listatropas;
-    private ListaEdificaciones listaedificaciones;
+    //private ListaTropas listatropas;
+    //private ListaEdificaciones listaedificaciones;
 
     public String getNombre() {
         return nombre;
@@ -22,7 +22,7 @@ public class Raza {
         this.nombre = nombre;
     }
 
-    public ListaTropas getListatropas() {
+ /*   public ListaTropas getListatropas() {
         return listatropas;
     }
 
@@ -36,5 +36,5 @@ public class Raza {
 
     public void setListaedificaciones(ListaEdificaciones listaedificaciones) {
         this.listaedificaciones = listaedificaciones;
-    }    
+    }    */
 }
