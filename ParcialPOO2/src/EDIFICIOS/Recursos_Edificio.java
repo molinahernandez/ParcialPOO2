@@ -11,6 +11,10 @@ package EDIFICIOS;
  */
 public class Recursos_Edificio extends Edificacion_Bu {
 
+    Recursos_Edificio() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }    
+    
     @Override
     public void nombre() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
