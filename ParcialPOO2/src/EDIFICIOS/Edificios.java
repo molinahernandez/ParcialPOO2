@@ -22,7 +22,5 @@ public class Edificios {
         build.disponible();
         build.descripcion();
         build.CrearEdificacion();
-        
     }
-    
 }
