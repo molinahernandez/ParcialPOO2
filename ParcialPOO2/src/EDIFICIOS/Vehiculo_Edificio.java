@@ -40,7 +40,4 @@ public class Vehiculo_Edificio extends Edificacion_Bu {
     public void descripcion() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-    
-    
-    
 }
